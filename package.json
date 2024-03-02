@@ -1,0 +1,9 @@
+{
+  "name": "siad",
+  "version": "1.0.0",
+  "description": "village information system",
+  "main": "index.ts",
+  "repository": "https://github.com/DoniApriano/sistem-informasi-administrasi-desa.git",
+  "author": "Doni Apriano",
+  "license": "MIT"
+}
